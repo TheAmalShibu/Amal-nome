@@ -1,0 +1,7 @@
+st
+alacritty
+zsh
+zsh-autocomplete
+telegram-desktop
+whatsapp-nativefier
+code
